@@ -1,0 +1,10 @@
+node_modules
+src
+.npmrc
+.eslintrc.js
+.browserslistrc
+.nvmrc
+.prettierrc
+babel.config.js
+vue.config.js
+webpack.config.js
